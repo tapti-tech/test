@@ -1,2 +1,2 @@
 # test
-Learn Git 
+Learn Git - test repo for demostration
