@@ -3,7 +3,7 @@ Learn Git - test repo for demostration
 
 GIT COMMANDS
 
-ls
+ls  \n
 cd
 git init
 git remote -v
